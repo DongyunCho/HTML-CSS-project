@@ -1,2 +1,2 @@
 # HTML-CSS-project
-a resonsive one page using html and css
+a resonsive single page using html and css
